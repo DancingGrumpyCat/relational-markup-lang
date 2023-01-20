@@ -18,7 +18,7 @@ footer after article { Copyright information }
   <header>
     Untitled Document
   </header>
-  <main class="inverted">
+  <main id="par1" class="inverted">
     Lorem ipsum dolor sit amet...
     <aside>
       Lorem ipsum is a filler phrase used commonly among developers.
