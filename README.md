@@ -3,7 +3,7 @@ A markup language that takes inspiration from HTML, but removed from HTML's tree
 
 ## Example
 ```rml
-body { header, .par1, footer }
+body { header, #par1, footer }
 header in body { Untitled Document }
 #par1 (tag: main, class: inverted) after header { Lorem ipsum dolor sit amet... }
 aside for #par1 {
